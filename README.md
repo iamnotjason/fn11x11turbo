@@ -30,6 +30,8 @@ Arrive in feudal ~17 pop
 - **Build a Market** to get Gold for castle
 - **Build Blacksmith** and delete. Replace with **Farm**
 - Click up!
+- Begin Lumber/Mill upgrade
+- Replace Mill with house
 
 ![image-20230408133547621](image-20230408133547621.png)
 
@@ -40,6 +42,7 @@ Arrive in Castle with ~20 vils
 - **Build 2 TCs**
 - **Research Wheelbarrow**
 - **Research Lumber upgrades**
+- **Research Mill upgrades**
 
 ![image-20230408132714958](image-20230408132714958.png)
 
@@ -66,7 +69,7 @@ Arrive in Castle with ~20 vils
 
 ![image-20230408134047803](image-20230408134047803.png)
 
-## Imperial Age
+## Imperial Age ~18 min
 
 - **Research**:
   - Onager
